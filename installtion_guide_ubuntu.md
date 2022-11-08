@@ -99,7 +99,7 @@ if you want all the things in a script use https://github.com/DeekshithSN/cheats
 
 for more details refer  https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1 
 
-        If you face below problem which is same as mentione below the you can refer this link
+        If you face below problem which is same as mentioned below the you can refer this link
 
        https://stackoverflow.com/questions/25183063/docker-on-rhel-6-cgroup-mounting-failing
 
